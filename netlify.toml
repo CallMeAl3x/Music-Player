@@ -1,0 +1,5 @@
+[[redirects]]
+from = "https://music-player-b-alexandre.netlify.app*"
+to = "https://music-player.bonefons.com/:splat"
+status = 301
+force = true

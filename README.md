@@ -38,7 +38,6 @@ Il s'agit d'une solution pour le défi [Music Player](https://devchallenges.io/c
 - Vite (Framework React)
 - TailwindCSS
 
-
 ## Auteur
 
 - Dev Challenge - [@CallMeAl3x](https://devchallenges.io/profile/4b9e326e-7fac-4811-b859-ca80373be3dd)
