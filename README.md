@@ -30,7 +30,7 @@ Il s'agit d'une solution pour le défi [Music Player](https://devchallenges.io/c
 
 ### Liens
 
-- [URL du site en direct](https://music-player-b-alexandre.netlify.app)
+- [URL du site en direct](music-player.bonefons.com/)
 
 
 ### Construit avec
